@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnMRTonB/88nn3ZHaUZ9UTrTr7qJBA1lnNUuTKQLD/kO9jfS4efhwlQFssX/KZn7/RneuMNadQ/3nJ/mz5Ajwg==",
+  "success": true,
+  "projectFilePath": "/Users/kevinpeng/Documents/Github/DotNetCoreModules/ReadJsonFile/ReadJsonFile.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/kevinpeng/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
